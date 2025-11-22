@@ -4,29 +4,30 @@ The demo loads the dataset, converts it into a prompt-friendly table, and passes
 No cloud API calls are used — everything runs locally, with no token fees or external dependencies.
 
 ------------------
-
 ## Features
-
-Local LLM inference using Ollama (no Internet required)
-Uses LLaMA-3 or any Ollama model you choose
-Loads a 100-item Acme office supply dataset from CSV
-Natural language queries about the dataset
-
-LLM performs:
-
-Product identification
-Highest-price/stock comparison
-Arithmetic (reorder qty & cost)
-Product detail summarization
-Automatic verification against ground-truth CSV values
-Robust Ollama binary & model checks
-Includes two complete example interactions with follow-ups
-
+- Local LLM inference using Ollama (no Internet required)
+- Uses LLaMA-3 or any Ollama model you choose
+- Loads a 100-item Acme office supply dataset from CSV
+- Natural language queries about the dataset
+-----------
+## LLM performs:
+- Product identification
+- Highest-price/stock comparison
+- Arithmetic (reorder qty & cost)
+- Product detail summarization
+- Automatic verification against ground-truth CSV values
+- Robust Ollama binary & model checks
+- Includes two complete example interactions with follow-ups
+------------
 **Project Structure**
+
 ├── llm_demo.py                     # Main LLM demo script
+
 ├── products.csv  # 100-row dataset (Acme office supplies)
+
 └── README.md                   # Project documentation
 
+-------------
  ## Requirements
 1. Python 3.8+
 
