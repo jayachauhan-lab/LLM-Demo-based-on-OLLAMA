@@ -1,0 +1,99 @@
+id,name,price,stock
+p1,Acme Notebook,22.77,270
+p2,Acme Pen,86.61,111
+p3,Acme Stapler,1.77,203
+p4,Acme Marker,41.81,272
+p5,Acme Ruler,49.95,41
+p6,Acme Eraser,75.11,980
+p7,Acme Binder,67.99,183
+p8,Acme Folder,26.66,176
+p9,Acme Desk Lamp,61.66,480
+p10,Acme Mouse,10.36,992
+p11,Acme Keyboard,121.57,76
+p12,Acme Monitor,86.94,533
+p13,Acme USB Cable,79.52,265
+p14,Acme Highlighter,98.73,429
+p15,Acme Paper Clips,23.97,428
+p16,Acme Binder Clips,2.88,945
+p17,Acme Scissors,130.9,813
+p18,Acme Tape Dispenser,11.73,187
+p19,Acme Packing Tape,47.8,327
+p20,Acme Legal Pad,68.57,859
+p21,Acme Sticky Notes,6.01,17
+p22,Acme Index Cards,105.77,627
+p23,Acme Whiteboard Marker,82.68,255
+p24,Acme Sharpie,142.34,991
+p25,Acme Desk Organizer,92.93,421
+p26,Acme Desk Chair,14.53,781
+p27,Acme Laptop Stand,138.27,357
+p28,Acme Phone Stand,53.7,470
+p29,Acme Charging Cable,44.31,45
+p30,Acme USB Hub,44.5,629
+p31,Acme Extension Cord,84.78,535
+p32,Acme Power Strip,75.32,757
+p33,Acme Dry Erase Board,122.57,199
+p34,Acme Hole Punch,79.09,570
+p35,Acme Cutting Mat,58.59,921
+p36,Acme Paper Cutter,67.1,969
+p37,Acme Push Pins,17.91,658
+p38,Acme Clipboard,4.93,719
+p39,Acme Presentation Folder,111.06,930
+p40,Acme Business Cards,71.2,610
+p41,Acme Document Tray,25.19,14
+p42,Acme Letter Opener,1.22,451
+p43,Acme Rubber Bands,9.01,95
+p44,Acme Glue Stick,98.62,478
+p45,Acme Correction Tape,23.12,573
+p46,Acme Bookends,58.02,968
+p47,Acme Pen Cup,18.43,489
+p48,Acme Paperweight,19.2,250
+p49,Acme Laptop Sleeve,98.17,912
+p50,Acme Storage Bin,137.19,554
+p51,Acme Sheet Protectors,135.0,529
+p52,Acme Report Covers,15.19,612
+p53,Acme Manila Folder,144.95,295
+p54,Acme Ink Cartridge,4.18,668
+p55,Acme Toner Cartridge,16.18,448
+p56,Acme Shredder Bags,16.42,937
+p57,Acme USB Flash Drive,4.77,956
+p58,Acme External Hard Drive,11.12,697
+p59,Acme Bluetooth Keyboard,102.31,487
+p60,Acme Bluetooth Mouse,139.22,936
+p61,Acme Webcam,74.5,78
+p62,Acme Microphone,43.82,265
+p63,Acme Notepad,32.65,262
+p64,Acme Desk Calendar,16.87,834
+p65,Acme Financial Ledger,95.95,237
+p66,Acme Receipt Book,90.92,739
+p67,Acme Cash Box,88.52,663
+p68,Acme Safety Cutter,144.7,184
+p69,Acme ID Badge Holder,62.62,299
+p70,Acme Lanyard,63.97,431
+p71,Acme CD Sleeves,142.74,457
+p72,Acme DVD Cases,130.74,647
+p73,Acme Label Maker,4.33,798
+p74,Acme Labels,112.4,823
+p75,Acme Binder Dividers,82.26,676
+p76,Acme Bubble Mailer,99.81,503
+p77,Acme Envelopes,32.71,474
+p78,Acme Photo Paper,40.36,487
+p79,Acme Printer Paper,90.01,513
+p80,Acme Calculator,146.73,805
+p81,Acme Planner,9.53,853
+p82,Acme 3-Ring Binder,34.68,911
+p83,Acme Hanging Folder,122.6,423
+p84,Acme File Box,37.34,274
+p85,Acme Desk Mat,47.35,484
+p86,Acme Storage Bins,96.76,442
+p87,Acme Index Tab Stickers,134.0,896
+p88,Acme Clipboards,141.89,137
+p89,Acme Mouse Pad,38.52,39
+p90,Acme Desk Drawer Organizer,57.01,940
+p91,Acme Card Holder,31.25,258
+p92,Acme Calendar,58.11,561
+p93,Acme Notebook Paper,58.23,540
+p94,Acme Desk Shelf,60.43,102
+p95,Acme Page Protectors,41.86,79
+p96,Acme Stationery Set,44.96,298
+p97,Acme Whiteboard Cleaner,125.06,542
+p98,Acme Desk Fan,31.62,754
